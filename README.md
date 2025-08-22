@@ -15,3 +15,6 @@ This repository contains MATLAB codes and data used for Spectral method and Mach
 1. Clone the repo
 2. Open MATLAB
 3. Run the needed .m files
+
+## License
+This project is licensed under the MIT License.
